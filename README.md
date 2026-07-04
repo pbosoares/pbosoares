@@ -61,4 +61,4 @@ Estou sempre aprendendo, praticando e desenvolvendo novos projetos com Java para
 ---
 
 ### 📫 Contato
-[LinkedIn](https://linkedin.com/in/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/pablodacostasoares/?skipRedirect=true)
