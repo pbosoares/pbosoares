@@ -1,64 +1,55 @@
-# 👨‍💻 Pablo Soares | Desenvolvedor Backend Java
+# Pablo Soares
 
-Desenvolvedor backend em formação, em transição de carreira da área de telecomunicações e infraestrutura de redes para o desenvolvimento de software com Java.
-Trago uma base sólida em análise e resolução de problemas em ambientes críticos, e atualmente estou aprofundando meus conhecimentos em Java, Spring Boot, Docker, SQL e AWS através de projetos práticos.
+### Desenvolvedor Backend Java | Spring Boot | APIs REST
 
----
+Desenvolvedor backend com foco em Java, Spring Boot e construção de APIs REST. Minha trajetória em suporte técnico N2, telecomunicações e infraestrutura de redes fortaleceu minha experiência em diagnóstico de problemas, análise de incidentes e ambientes críticos.
 
-## 🧠 Sobre mim
+Tenho interesse em arquitetura de software, cloud computing e desenvolvimento de sistemas seguros, organizados e fáceis de manter.
 
-- Foco em desenvolvimento Backend com Java e Spring Boot
-- Construção de APIs REST escaláveis e bem estruturadas
-- Aplicação de lógica de programação orientada a objetos na resolução de problemas
-- Interesse em arquitetura de software, cloud computing e sistemas escaláveis
-- Evolução contínua através de estudo, prática e projetos reais
+## Competências
 
----
+- Desenvolvimento backend com Java e Spring Boot
+- Criação e organização de APIs REST
+- Programação orientada a objetos
+- SQL e bancos de dados relacionais
+- Docker e fundamentos de AWS
+- Linux, Git e GitHub
+- Análise de problemas e resolução de incidentes
+- Organização, segurança e manutenção de aplicações
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
-- ☕ Java
-- 🍃 Spring Boot
-- 🌐 APIs REST
-- ☁️ AWS (Amazon Web Services)
-- 🐳 Docker
-- 🗄️ SQL
-- 🐧 Linux
-- 🔧 Git & GitHub
+**Backend:** Java, Spring Boot, APIs REST  
+**Banco de dados:** SQL  
+**Infraestrutura e cloud:** Docker, AWS, Linux  
+**Versionamento:** Git, GitHub
 
----
+## Inteligência artificial no desenvolvimento
 
-## 🏗️ Boas Práticas
+- Claude
+- OpenAI GPT
+- Orca
 
-- Organização e estruturação de código
+Utilizo ferramentas de IA como apoio ao desenvolvimento, incluindo análise de problemas, exploração de soluções, documentação e revisão de código.
+
+## Boas práticas
+
+- Organização e legibilidade do código
+- Princípios de orientação a objetos
 - Arquitetura limpa (Clean Architecture)
 - Versionamento de código
-- Desenvolvimento de aplicações seguras e performáticas
-- Criação de projetos escaláveis e de fácil manutenção
+- Atenção à segurança, desempenho e manutenção
 
----
+## Experiência em telecomunicações e infraestrutura
 
-## 🌐 Infraestrutura & Redes
+Experiência em suporte técnico N2, com atividades relacionadas a:
 
-Experiência prévia com suporte técnico N2 em telecomunicações, incluindo:
-- Redes e segurança da informação
+- Análise e resolução de incidentes
+- Diagnóstico de problemas de rede
 - Configuração de roteadores e OLT
-- Fundamentos de VOIP
-- Análise e resolução de incidentes em ambientes críticos
+- Fundamentos de VoIP
+- Suporte a ambientes críticos
 
----
+## Contato
 
-## 🎯 Objetivo
-
-Conquistar minha primeira oportunidade como **Desenvolvedor Backend Java** ou **Estagiário em Desenvolvimento**, onde eu possa aprender, contribuir e crescer profissionalmente, aplicando meus conhecimentos técnicos e minha experiência prévia em ambientes de produção.
-
----
-
-## 📈 Em constante evolução
-
-Estou sempre aprendendo, praticando e desenvolvendo novos projetos com Java para fortalecer minhas habilidades técnicas e contribuir de forma relevante em equipes e projetos.
-
----
-
-### 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/pablodacostasoares/?skipRedirect=true)
